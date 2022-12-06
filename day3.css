@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   
+}
+h2{font-family: 'Lucida Sans',  Verdana, sans-serif;
+     font-size: 40px;
+}
+p{font-family: 'Lucida Sans',  Verdana, sans-serif;
+    font-size: 16px; 
+
+}
+fieldset{
+    margin: 50px auto;
+    
+    width: 700px;
+    text-align: left;
+    background-color: teal;
+}
+tr{
+    border: none;
+}
+td{
+    border: none;
+}
+.name-email{
+    width: 42%; padding: 20px;
+}
+.subject{width: 92%; padding: 20px;}
+.submit{background-color:rgb(183, 159, 167); padding: 30px 50px 30px 50px; border: none;}
+input{
+    font-family: 'Lucida Sans',  Verdana, sans-serif;
+    font-size: 16px;
+}
